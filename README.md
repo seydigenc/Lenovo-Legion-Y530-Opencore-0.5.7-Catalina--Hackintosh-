@@ -1,5 +1,7 @@
 # Lenovo-y530-Hackintosh
 Lenovo y530 Catalina Opencore(0.5.7)
+![Ekran Resmi 2020-04-17 13 58 07](https://user-images.githubusercontent.com/3208430/79562922-7c885700-80b4-11ea-9e88-8fb44ae30113.png)
+
 Efi Dosyasını kendi efi dosyanızla değiştirerek kullanabilirsiniz. Değiştirirken microsoft klasörünün yedeğini almayı unutmayın. 
 Eğer Apple sitesinden windows destek yazılımını windows tarafında kurarsanız aynı mac'deki gibi mac'den windows'a windows'dan
 Mac'e geçişleriniz daha kolay olur.Windows'da görev çubuğundan mac' a geçebilir. Mac'de ise Ayarlardan Startup Disk yardımı ile windowsa geçebilirsiniz. 
